@@ -1,0 +1,16 @@
+{
+  "name": "yatzy-refactoring-kata",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "description": "Code for a refactoring exercise about the game of Yatzy",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-mocha": "^2.2.0",
+    "gulp-util": "^3.0.7",
+    "lodash": "^4.13.1",
+    "mocha": "^2.5.3"
+  }
+}
