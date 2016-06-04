@@ -6,4 +6,11 @@ Make sure you have node.js and npm installed. Then in this directory:
     npm install
 
     # To run unit tests:
-    node_modules/mocha/bin/mocha
+    npm test
+	
+	#run tests using gulp
+	gulp mocha
+	gulp tdd  - watch mode
+	
+	#debug javaScript code in visual studio Code IDE
+	 click debug button, choose "debug mocha", set break points, then click play button or press F5.
